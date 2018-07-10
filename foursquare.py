@@ -33,4 +33,4 @@ def findARestaurant(mealType, location):
         print("")
 
 if __name__ == "__main__":
-    findARestaurant("Pizza", "Milan, Italy")
+    findARestaurant("Pizza", "Berlin, Germany")
